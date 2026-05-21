@@ -1,16 +1,60 @@
-## Hi there 👋
+# Ethan Jordan
 
-<!--
-**EthanMJordan/EthanMJordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate focused on research, data workflows, and AI tooling.
 
-Here are some ideas to get you started:
+I am interested in early-career technical roles involving research support, data analysis, AI/ML-adjacent systems, internal tools, technical documentation, and applied problem solving. My current goal is to keep building practical technical fluency while contributing to useful project-based work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Research-oriented technical work
+- Data workflows and reporting
+- AI tooling and LLM workflow design
+- Computer vision / ML-adjacent project support
+- SQL, Python, and internal tool development
+
+## Selected work
+
+### MMA-TP — Modular Multi-State AI Teaching Protocol
+
+Co-author of a published AI tutoring protocol that uses engineered prompts and JSON-based state specifications to structure multi-turn LLM tutoring interactions.
+
+My contributions included editing, literature review support, tutor-session testing/evaluation, explanatory diagrams/graphs, and oral presentation materials.
+
+### TCG Verify — Computer Vision Trading Card Authentication
+
+Contributor to a computer vision research project for authenticating trading cards from smartphone images.
+
+My work focused on data organization, labeling workflow coordination, sourcing and verifying card/set details, final CNN testing support, light tuning, and project coordination.
+
+### Digital Ministries Web & Database Support
+
+Volunteer technical support work involving T-SQL, SQL Server Management Studio, website/backend data maintenance, and staff technical troubleshooting.
+
+Projects included database automation for attendee lifecycle updates and seasonal mailing-address workflows.
+
+## Technical areas
+
+**Experience / working familiarity:**
+- SQL / T-SQL
+- Python
+- Java
+- C++
+- HTML / CSS / JavaScript
+- Data organization
+- Technical documentation
+- AI/LLM workflow concepts
+- Image preprocessing concepts
+- Model testing support
+
+**Currently strengthening:**
+- Git/GitHub workflow
+- Python fluency
+- SQL best practices
+- Testing/debugging
+- APIs and automation
+- Clear technical communication
+
+## Contact
+
+- [LinkedIn]([https://www.linkedin.com/in/ethan-jordan-2143b0196/])
+- Email: et.jordan@proton.me
