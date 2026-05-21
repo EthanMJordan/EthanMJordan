@@ -56,5 +56,5 @@ Projects included database automation for attendee lifecycle updates and seasona
 
 ## Contact
 
-- [LinkedIn]([https://www.linkedin.com/in/ethan-jordan-2143b0196/])
+- [LinkedIn](https://www.linkedin.com/in/ethan-jordan-2143b0196/)
 - Email: et.jordan@proton.me
