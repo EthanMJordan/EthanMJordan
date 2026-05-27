@@ -34,7 +34,7 @@ Projects included database automation for attendee lifecycle updates and seasona
 
 ## Technical areas
 
-**Experience / working familiarity:**
+**Programming and data:**
 - SQL / T-SQL
 - Python
 - Java
@@ -42,17 +42,14 @@ Projects included database automation for attendee lifecycle updates and seasona
 - HTML / CSS / JavaScript
 - Data organization
 - Technical documentation
-- AI/LLM workflow concepts
-- Image preprocessing concepts
-- Model testing support
 
-**Currently strengthening:**
-- Git/GitHub workflow
-- Python fluency
-- SQL best practices
-- Testing/debugging
-- APIs and automation
-- Clear technical communication
+**AI, research, and ML-adjacent work:**
+- AI/LLM workflow concepts
+- JSON-based interaction design
+- Image preprocessing concepts
+- Computer vision project support
+- Model testing support
+- Research documentation
 
 ## Contact
 
